@@ -1,1 +1,1 @@
-as libs estao no descritas no requeriments.tx
+as libs estao no descritas no requeriments.txt
